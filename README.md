@@ -1,2 +1,8 @@
 # notification_scripts
-some notification codes, witch i wrote during, other projects.
+Some notification codes, witch i wrote during, other projects.
+Why it's not in the one language?
+Cuse, on that time, i should trying all the lib in the histroy for sending an notification with circle image...
+So, i tried all the libs in all langs that i know...
+
+# Created by me, mortzaCFT.
+with hope, for useful...for, you...
