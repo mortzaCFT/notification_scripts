@@ -1,6 +1,7 @@
 # Actually this is not a notification but, it's can be visible even if notificaiton is on distrub mode.
 # And its was usefull for me hope usefull for you too.
 # First install lib with pip, you can search for installing them...
+# Oh, before i forgot, it's can be displaying the circle image in notificaiton; Like telegram, i guess...
 # Created by me, morztaCFT.
 
 
